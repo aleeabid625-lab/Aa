@@ -1,0 +1,6 @@
+{
+  "name": "Abid Music",
+  "description": "A professional Android Music Player with automatic storage scan, playlists, equalizer, bass boost, and background playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
